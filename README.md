@@ -9,4 +9,8 @@ Search a particular word and get list of all the files containing that word sort
 as appeared in that file. 
 Also get the number of times the word as appeared in a perticular file and time taken by program to search the word.
 
+Working:
+
+
+
 Made by- Prabal Gupta
